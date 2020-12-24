@@ -20,4 +20,6 @@ Além disso, ele opera com letras e exibe a expressão utilizada no final.
 
 Updates:
 24/12/2020: Criado
-###
+
+### Erros a serem tratados
+• Corrigir repetição da verificação de continuidade de inputs no comloopC

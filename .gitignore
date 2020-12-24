@@ -1,2 +1,2 @@
 # Ignorar execuções geradas na pasta
-.exe
+*.exe
